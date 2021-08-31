@@ -2,8 +2,6 @@
 // Make me compile without changing line 13!
 // Execute `rustlings hint move_semantics2` for hints :)
 
-// I AM NOT DONE
-//
 // https://stackoverflow.com/questions/28800121/what-do-i-have-to-do-to-solve-a-use-of-moved-value-error
 
 fn main() {
